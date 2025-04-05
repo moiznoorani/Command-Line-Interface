@@ -3,7 +3,7 @@
 CXX = g++
 CXXFLAGS = -Wall -std=c++11
 
-SRC = src/main.cpp src/commands.cpp
+SRC = src/main.cpp src/shell_commands.cpp
 OBJ = $(SRC:.cpp=.o)
 
 TARGET = cppshell
