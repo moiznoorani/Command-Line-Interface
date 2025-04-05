@@ -70,16 +70,6 @@ Enter a command: run ./hello
 Hello from external program!
 ```
 
----
-
-## 📌 Notes
-- Compatible with Unix/Linux systems
-- Written using standard C++11
-
----
-
 ## ✍️ Author
 **Moiz Noorani**  
 [GitHub Profile](https://github.com/moiznoorani)
-
-Feel free to fork, improve, and share!
